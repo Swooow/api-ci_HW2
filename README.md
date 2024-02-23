@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/Swooow/api-ci_HW2/actions/workflows/gradle.yml/badge.svg)](https://github.com/Swooow/api-ci_HW2/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/qllwmyvjra60lje8?svg=true)](https://ci.appveyor.com/project/Swooow/api-ci-hw2)
